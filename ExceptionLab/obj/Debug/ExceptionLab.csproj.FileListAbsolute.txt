@@ -1,0 +1,9 @@
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\bin\Debug\ExceptionLab.exe.config
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\obj\Debug\ExceptionLab.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\bin\Debug\ExceptionLab.exe
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\bin\Debug\ExceptionLab.pdb
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\obj\Debug\ExceptionLab.exe
+C:\Users\kenne\Desktop\COMP123\Lab6\ExceptionLab\obj\Debug\ExceptionLab.pdb
+C:\Users\Kenneth\Desktop\Lab6\ExceptionLab\bin\Debug\ExceptionLab.exe.config
+C:\Users\Kenneth\Desktop\Lab6\ExceptionLab\obj\Debug\ExceptionLab.exe
+C:\Users\Kenneth\Desktop\Lab6\ExceptionLab\obj\Debug\ExceptionLab.pdb
